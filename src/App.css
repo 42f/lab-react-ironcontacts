@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.contact-face {
+  width: 90px;
+}
+
+.contact-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+td {
+  text-align: center;
+}
